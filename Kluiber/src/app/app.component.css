@@ -1,0 +1,4 @@
+.bgimg {
+    background-image: url("/assets/img/islandherz.jpg");
+    object-fit: cover;
+}
